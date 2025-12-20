@@ -3,6 +3,7 @@ from scapy.all import IP
 from scapy.all import ICMP
 from scapy.all import sr1
 
+print"Edit py m.hatem"
 while True :
     try :
         #Collect Ip
