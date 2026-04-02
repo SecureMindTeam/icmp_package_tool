@@ -29,3 +29,10 @@ By enabling users to specify both the **Source IP** and **Destination IP**, this
    ```bash
    git clone [https://github.com/YourUsername/icmp_package_tool.git](https://github.com/YourUsername/icmp_package_tool.git)
    cd icmp_package_tool
+2. sudo python main.py
+
+ ## 🚀 Usage  
+ ```
+ sudo python main.py
+ ```
+## Developed with 💙 by SecureMind Team 
